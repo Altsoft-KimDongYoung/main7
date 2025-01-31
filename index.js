@@ -1,1 +1,1 @@
-console.log("행복");
+console.log("행복하세요!");
