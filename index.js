@@ -1,1 +1,1 @@
-console.log("Core Constants test22221111111111");
+console.log("Core Constants 안녕");
